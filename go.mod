@@ -32,7 +32,7 @@ require (
 	github.com/yvasiyarov/go-metrics v0.0.0-20140926110328-57bccd1ccd43 // indirect
 	github.com/yvasiyarov/gorelic v0.0.0-20141212073537-a9bba5b9ab50
 	github.com/yvasiyarov/newrelic_platform_go v0.0.0-20140908184405-b21fdbd4370f // indirect
-	golang.org/x/crypto v0.0.0-20211215153901-e495a2d5b3d3
+	golang.org/x/crypto v0.1.0
 	golang.org/x/oauth2 v0.0.0-20190604053449-0f29369cfe45
 	google.golang.org/api v0.0.0-20160322025152-9bf6e6e569ff
 	// when updating google.golang.org/cloud, update (or remove) the replace
